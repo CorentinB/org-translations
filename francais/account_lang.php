@@ -23,7 +23,7 @@ $lang['account_already_got'] 	= 'Vous possédez déjà un compte ?';
 $lang['account_no_acc']			= "Vous n'avez pas encore de compte ?";
 
 //activate page
-$lang['account_resend']			= "Ré-envoyer";
+$lang['account_resend']			= "Réenvoyer";
 $lang['account_no_activate']	= "Vous n'avez pas reçu d'e-mail ?";
 $lang['account_verify']			= "Vérifier";
 $lang['account_verify_code']	= "Code de vérification";
